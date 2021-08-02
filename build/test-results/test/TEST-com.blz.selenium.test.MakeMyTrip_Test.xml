@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.blz.selenium.test.MakeMyTrip_Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-02T12:17:16" hostname="DESKTOP-KFGQFK8" time="147.437">
+  <properties/>
+  <testcase name="flightsAfter_Filter" classname="com.blz.selenium.test.MakeMyTrip_Test" time="147.437"/>
+  <system-out><![CDATA[Bengaluru, India
+---------------
+List of departure flights without filter: 9
+-----------------
+Flights Name: IndiGo
+20:00
+Mumbai
+10 h 15 m
+1 stop via Chennai
+06:15
++ 1 DAY
+Bengaluru
+? 4,982
+Use code BOOKNOW and get up to Rs. 1000 instant discount
+----------------------------------------
+Flights Name: IndiGo
+20:45
+Mumbai
+01 h 50 m
+Non stop
+22:35
+Bengaluru
+? 4,998
+Use code BOOKNOW and get up to Rs. 1000 instant discount
+----------------------------------------
+Flights Name: IndiGo
+21:25
+Mumbai
+09 h 25 m
+1 stop via Hyderabad
+06:50
++ 1 DAY
+Bengaluru
+? 5,387
+Use code BOOKNOW and get up to Rs. 1000 instant discount
+----------------------------------------
+Flights Name: Vistara
+21:55
+Mumbai
+12 h 35 m
+1 stop via New Delhi
+10:30
++ 1 DAY
+Bengaluru
+? 8,952
+Use code BOOKNOW and get up to Rs. 1000 instant discount
+----------------------------------------
+Flights Name: Vistara
+20:55
+Mumbai
+13 h 35 m
+1 stop via New Delhi
+10:30
++ 1 DAY
+Bengaluru
+? 8,952
+Use code BOOKNOW and get up to Rs. 1000 instant discount
+----------------------------------------
+Flights Name: Vistara
+21:55
+Mumbai
+19 h
+1 stop via New Delhi
+16:55
++ 1 DAY
+Bengaluru
+? 10,054
+Use code BOOKNOW and get up to Rs. 1000 instant discount
+----------------------------------------
+Flights Name: Vistara
+20:55
+Mumbai
+20 h
+1 stop via New Delhi
+16:55
++ 1 DAY
+Bengaluru
+? 10,054
+Use code BOOKNOW and get up to Rs. 1000 instant discount
+----------------------------------------
+Flights Name: Vistara
+21:55
+Mumbai
+20 h 55 m
+1 stop via New Delhi
+18:50
++ 1 DAY
+Bengaluru
+? 11,157
+Use code BOOKNOW and get up to Rs. 1000 instant discount
+----------------------------------------
+Flights Name: Vistara
+20:55
+Mumbai
+21 h 55 m
+1 stop via New Delhi
+18:50
++ 1 DAY
+Bengaluru
+? 11,157
+Use code BOOKNOW and get up to Rs. 1000 instant discount
+----------------------------------------
+---------------------------------
+List of return flights without filter: 21
+ 
+---------------------------------
+List of departure flights with filter: 9
+---------
+-----------------------
+List of return flights without filter: 11
+-----------------------
+Departure flight Price: 4982
+Return flight Price: 4653
+Verify departure price with bottom page departure price:true
+Verify return price with bottom page return price price:true
+bottom page departure price: 4982
+bottom page return price: 4653
+Total bottom page price: 9635
+Addition of Departure and return flight price :9635
+verifying total price of bottom page: true
+MakeMyTrip
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
